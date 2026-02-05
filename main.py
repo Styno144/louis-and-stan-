@@ -1,2 +1,1 @@
-print('jaime les zom')
-print("bzmtrlgrp")
+#ou on lance l'app 

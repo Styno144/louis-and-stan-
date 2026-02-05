@@ -1,0 +1,18 @@
+{
+  "categories": {
+    "discipline": [
+      {
+        "id": 1,
+        "auteur": "Aristote",
+        "texte": "Nous sommes ce que nous faisons de manière répétée. L'excellence n'est donc pas un acte mais une habitude."
+      }
+    ],
+    "rigueur": [
+      {
+        "id": 2,
+        "auteur": "Marc Aurèle",
+        "texte": "Fais chaque chose de ta vie comme si c’était la dernière."
+      }
+    ]
+  }
+}
